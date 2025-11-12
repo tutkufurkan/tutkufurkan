@@ -183,18 +183,6 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Visualiz
 </div>
 
 ---
-
-## 🎯 What I'm Learning
-
-```python
-current_focus = {
-    "Machine Learning": ["NLP", "Recommendation Systems", "Ensemble Methods"],
-    "Deep Learning": ["Neural Networks", "CNNs", "Transfer Learning"],
-    "Advanced Topics": ["PCA", "Grid Search", "Collaborative Filtering"],
-    "Visualization": ["Interactive Dashboards", "Advanced Plotly", "D3.js"]
-}
-```
-
 ---
 
 ## 📚 Latest Kaggle Notebooks
@@ -232,8 +220,6 @@ current_focus = {
 ---
 
 <div align="center">
-  
-### 💻 "Data is the new oil, but visualization is the engine that drives insights!"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tutkufurkan&color=blueviolet&style=for-the-badge)
 
