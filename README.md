@@ -165,10 +165,22 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Visualiz
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tutkufurkan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tutkufurkan&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<a href="https://github.com/tutkufurkan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tutkufurkan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutkufurkan&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tutkufurkan&theme=radical&hide_border=true)
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tutkufurkan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutkufurkan&theme=radical)
 
 </div>
 
