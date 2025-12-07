@@ -165,20 +165,16 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Visualiz
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tutkufurkan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutkufurkan&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+```text
+📊 Total Contributions: 190+
+🔥 Current Streak: 1 day
+⭐ Longest Streak: 5 days
+📁 Public Repositories: 10
+🎯 Joined GitHub: 1 year ago
+📍 Location: İzmir, Turkey
+```
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=tutkufurkan&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutkufurkan&theme=radical" alt="Profile Summary"/>
+**🔗 View Full Stats:** [GitHub Profile](https://github.com/tutkufurkan)
 
 </div>
 
