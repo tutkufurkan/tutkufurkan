@@ -51,109 +51,119 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Visualiz
 
 ## 📊 Featured Projects
 
-### 🤖 Machine Learning Series
+### 🚀 Machine Learning Series
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚀 Advanced ML Topics</h3>
+      <h3 align="center">Advanced ML Topics</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="ML" width="300"/>
-        <br><br>
-        <a href="https://github.com/tutkufurkan/Machine-Learning---Advanced-Topics">
-          <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" />
+        <a href="https://github.com/tutkufurkan/Machine-Learning---Advanced-Topics" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutkufurkan&repo=Machine-Learning---Advanced-Topics&theme=algolia" alt="Advanced Topics" />
         </a>
-        <a href="https://www.kaggle.com/code/dandrandandran2093/machine-learning-advanced-topics">
-          <img src="https://img.shields.io/badge/Kaggle-Run_Now-20BEFF?style=for-the-badge&logo=kaggle" />
-        </a>
-        <p><strong>NLP • PCA • Model Selection • Recommendations</strong></p>
-        <p><i>Gender classification, dimensionality reduction, hyperparameter tuning</i></p>
+        <p>
+          <a href="https://github.com/tutkufurkan/Machine-Learning---Advanced-Topics" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+          </a>
+          <a href="https://www.kaggle.com/code/dandrandandran2093/machine-learning-advanced-topics" target="_blank">
+            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" />
+          </a>
+        </p>
+        <p><strong>NLP, PCA, Model Selection, Recommendations</strong> - Gender classification, dimensionality reduction, hyperparameter tuning</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🎯 Classification Models</h3>
+      <h3 align="center">Classification Models</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/1280px-Scikit_learn_logo_small.svg.png" alt="Classification" width="300"/>
-        <br><br>
-        <a href="https://github.com/tutkufurkan/Machine-Learning---Classifications-Models">
-          <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" />
+        <a href="https://github.com/tutkufurkan/Machine-Learning---Classifications-Models" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutkufurkan&repo=Machine-Learning---Classifications-Models&theme=dracula" alt="Classification" />
         </a>
-        <a href="https://www.kaggle.com/code/dandrandandran2093/machine-learning-classifications-models">
-          <img src="https://img.shields.io/badge/Kaggle-Run_Now-20BEFF?style=for-the-badge&logo=kaggle" />
-        </a>
-        <p><strong>6 Algorithms • 98.84% Accuracy</strong></p>
-        <p><i>Logistic, KNN, SVM, Naive Bayes, Decision Tree, Random Forest</i></p>
+        <p>
+          <a href="https://github.com/tutkufurkan/Machine-Learning---Classifications-Models" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+          </a>
+          <a href="https://www.kaggle.com/code/dandrandandran2093/machine-learning-classifications-models" target="_blank">
+            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" />
+          </a>
+        </p>
+        <p><strong>6 Classification Algorithms</strong> - Logistic Regression, KNN, SVM, Naive Bayes, Decision Tree, Random Forest</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📈 Regression Models</h3>
+      <h3 align="center">Regression Models</h3>
       <div align="center">
-        <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Regression" width="300"/>
-        <br><br>
-        <a href="https://github.com/tutkufurkan/Machine-Learning---Regression-Models">
-          <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" />
+        <a href="https://github.com/tutkufurkan/Machine-Learning---Regression-Models" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutkufurkan&repo=Machine-Learning---Regression-Models&theme=radical" alt="Regression" />
         </a>
-        <a href="https://www.kaggle.com/code/dandrandandran2093/machine-learning-regression-models">
-          <img src="https://img.shields.io/badge/Kaggle-Run_Now-20BEFF?style=for-the-badge&logo=kaggle" />
-        </a>
-        <p><strong>5 Techniques • R² Evaluation</strong></p>
-        <p><i>Linear, Polynomial, Decision Tree, Random Forest</i></p>
+        <p>
+          <a href="https://github.com/tutkufurkan/Machine-Learning---Regression-Models" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+          </a>
+          <a href="https://www.kaggle.com/code/dandrandandran2093/machine-learning-regression-models" target="_blank">
+            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" />
+          </a>
+        </p>
+        <p><strong>5 Regression Algorithms</strong> - Linear, Polynomial, Decision Tree, Random Forest with R² evaluation</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🔍 Clustering Models</h3>
+      <h3 align="center">Clustering Models</h3>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="Clustering" width="300"/>
-        <br><br>
-        <a href="https://github.com/tutkufurkan/Machine-Learning---Clustering-Models">
-          <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" />
+        <a href="https://github.com/tutkufurkan/Machine-Learning---Clustering-Models" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutkufurkan&repo=Machine-Learning---Clustering-Models&theme=synthwave" alt="Clustering" />
         </a>
-        <a href="https://www.kaggle.com/code/dandrandandran2093/machine-learning-clustering-models">
-          <img src="https://img.shields.io/badge/Kaggle-Run_Now-20BEFF?style=for-the-badge&logo=kaggle" />
-        </a>
-        <p><strong>Unsupervised Learning</strong></p>
-        <p><i>K-Means, Hierarchical, Elbow Method, Dendrogram</i></p>
+        <p>
+          <a href="https://github.com/tutkufurkan/Machine-Learning---Clustering-Models" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+          </a>
+          <a href="https://www.kaggle.com/code/dandrandandran2093/machine-learning-clustering-models" target="_blank">
+            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" />
+          </a>
+        </p>
+        <p><strong>Unsupervised Learning</strong> - K-Means, Hierarchical Clustering with Elbow Method & Dendrogram</p>
       </div>
     </td>
   </tr>
 </table>
-
----
 
 ### 📊 Data Visualization Series
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📉 Plotly Interactive</h3>
+      <h3 align="center">Plotly Interactive Visualizations</h3>
       <div align="center">
-        <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="200"/>
-        <br><br>
-        <a href="https://github.com/tutkufurkan/Plotly-First-Steps">
-          <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" />
+        <a href="https://github.com/tutkufurkan/Plotly-First-Steps" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutkufurkan&repo=Plotly-First-Steps&theme=tokyonight" alt="Plotly" />
         </a>
-        <a href="https://www.kaggle.com/code/dandrandandran2093/plotly-first-steps">
-          <img src="https://img.shields.io/badge/Kaggle-Run_Now-20BEFF?style=for-the-badge&logo=kaggle" />
-        </a>
-        <p><strong>12 Interactive Plot Types</strong></p>
-        <p><i>Line, Scatter, Bar, Pie, Bubble, 3D Scatter</i></p>
+        <p>
+          <a href="https://github.com/tutkufurkan/Plotly-First-Steps" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+          </a>
+          <a href="https://www.kaggle.com/code/dandrandandran2093/plotly-first-steps" target="_blank">
+            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" />
+          </a>
+        </p>
+        <p><strong>12 Interactive Plot Types</strong> - Line, Scatter, Bar, Pie, Bubble, Histogram, 3D Scatter, and more</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📊 Seaborn Statistical</h3>
+      <h3 align="center">Seaborn Statistical Plots</h3>
       <div align="center">
-        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="300"/>
-        <br><br>
-        <a href="https://github.com/tutkufurkan/SeaBorn-First-Steps">
-          <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" />
+        <a href="https://github.com/tutkufurkan/SeaBorn-First-Steps" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tutkufurkan&repo=SeaBorn-First-Steps&theme=merko" alt="Seaborn" />
         </a>
-        <a href="https://www.kaggle.com/code/dandrandandran2093/seaborn-first-steps">
-          <img src="https://img.shields.io/badge/Kaggle-Run_Now-20BEFF?style=for-the-badge&logo=kaggle" />
-        </a>
-        <p><strong>12 Statistical Visualizations</strong></p>
-        <p><i>Heatmap, Violin, Box, Swarm, Pair Plot</i></p>
+        <p>
+          <a href="https://github.com/tutkufurkan/SeaBorn-First-Steps" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+          </a>
+          <a href="https://www.kaggle.com/code/dandrandandran2093/seaborn-first-steps" target="_blank">
+            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" />
+          </a>
+        </p>
+        <p><strong>12 Statistical Visualizations</strong> - Heatmap, Violin, Box, Swarm, Pair Plot, and more</p>
       </div>
     </td>
   </tr>
@@ -163,18 +173,15 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Visualiz
 
 ## 📈 GitHub Stats
 
-</div>
-
 <div align="center">
-
+<img src="https://github-readme-stats.vercel.app/api?username=tutkufurkan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutkufurkan&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</div>
+<div align="center">
 <img src="https://streak-stats.demolab.com/?user=tutkufurkan&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
 </div>
-
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutkufurkan&theme=radical" alt="Profile Summary"/>
-
 </div>
 
 ---
@@ -194,12 +201,12 @@ current_focus = {
 
 ## 📚 Latest Kaggle Notebooks
 
-- 🚀 **[ML Advanced Topics](https://www.kaggle.com/code/dandrandandran2093/machine-learning-advanced-topics)** - NLP, PCA, Model Selection, Recommendations
-- 🎯 **[Classification Models](https://www.kaggle.com/code/dandrandandran2093/machine-learning-classifications-models)** - 6 Algorithms, 98.84% accuracy
-- 📈 **[Regression Models](https://www.kaggle.com/code/dandrandandran2093/machine-learning-regression-models)** - 5 Techniques with R² evaluation
-- 🔍 **[Clustering Models](https://www.kaggle.com/code/dandrandandran2093/machine-learning-clustering-models)** - K-Means & Hierarchical
-- 📊 **[Plotly Interactive Tutorial](https://www.kaggle.com/code/dandrandandran2093/plotly-first-steps)** - 12 Plot Types
-- 📈 **[Seaborn Statistical Visualization](https://www.kaggle.com/code/dandrandandran2093/seaborn-first-steps)** - 12 Visualizations
+- 🚀 [ML Advanced Topics - NLP, PCA, Model Selection](https://www.kaggle.com/code/dandrandandran2093/machine-learning-advanced-topics)
+- 🎯 [Classification Models - 6 Algorithms](https://www.kaggle.com/code/dandrandandran2093/machine-learning-classifications-models)
+- 📈 [Regression Models - 5 Techniques](https://www.kaggle.com/code/dandrandandran2093/machine-learning-regression-models)
+- 🔍 [Clustering Models - K-Means & Hierarchical](https://www.kaggle.com/code/dandrandandran2093/machine-learning-clustering-models)
+- 📊 [Plotly Interactive Tutorial - 12 Plot Types](https://www.kaggle.com/code/dandrandandran2093/plotly-first-steps)
+- 📈 [Seaborn Statistical Visualization](https://www.kaggle.com/code/dandrandandran2093/seaborn-first-steps)
 
 ---
 
