@@ -165,20 +165,20 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Visualiz
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=tutkufurkan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutkufurkan&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" /> |
-| --- | --- |
+<img src="https://github-readme-stats.vercel.app/api?username=tutkufurkan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutkufurkan&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tutkufurkan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<img src="https://streak-stats.demolab.com/?user=tutkufurkan&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
-  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutkufurkan&theme=radical)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutkufurkan&theme=radical" alt="Profile Summary"/>
 
 </div>
 
