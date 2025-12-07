@@ -129,7 +129,7 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Visualiz
     <td width="50%">
       <h3 align="center">📉 Plotly Interactive</h3>
       <div align="center">
-        <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="200"/>
+        <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="300"/>
         <br><br>
         <a href="https://github.com/tutkufurkan/Plotly-First-Steps">
           <img src="https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github" />
