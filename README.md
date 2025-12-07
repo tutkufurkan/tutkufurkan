@@ -164,11 +164,9 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Visualiz
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-<a href="https://github.com/tutkufurkan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tutkufurkan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutkufurkan&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</a>
+
+| <img src="https://github-readme-stats.vercel.app/api?username=tutkufurkan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutkufurkan&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" /> |
+| --- | --- |
 
 </div>
 
@@ -180,7 +178,7 @@ I'm passionate about **Data Science**, **Machine Learning**, and **Data Visualiz
 
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutkufurkan&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tutkufurkan&theme=radical)
 
 </div>
 
